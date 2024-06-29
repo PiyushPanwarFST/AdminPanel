@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    background-color: rgba(50, 5 , 25);
+    color: white;
+    width: 16rem;
+    height: 100vh;
+}
+
+.icons{
+    margin-left: 3rem;
+    cursor: pointer;
+}
+
+.each{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+

@@ -1,0 +1,9 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.section {
+    display: flex;
+    height: 100vh;           /* Ensures the parent takes full viewport height */
+}
+  
