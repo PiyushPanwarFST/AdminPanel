@@ -1,6 +1,6 @@
 # Admin Panel - MERN Stack Project
 
-<img width="1234" alt="Screenshot 2024-04-02 at 5 09 29 PM" src="https://github.com/PiyushPanwarFST/Dice-Game/assets/153702744/a3f3dd02-94e5-42e9-9606-72cf8bde36cd">
+<img width="1234" alt="hffggg" src="https://github.com/PiyushPanwarFST/StaticImages/blob/main/AdminPanel.png">
 
 This project is an Admin Panel built using the MERN stack. The frontend is developed with React.js, while the backend is built using Express.js with Node.js. The project connects to a MongoDB database to manage and manipulate user data.
 
